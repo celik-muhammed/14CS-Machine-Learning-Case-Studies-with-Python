@@ -5,7 +5,7 @@
 
 <div align="center">
 
-| Machine Learning Case Studies | Kaggle | Tableau |
+  | <h2>Machine Learning Case Studies</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |
 | [01. ML-Autoscout-Car-Price-Prediction](https://github.com/celik-muhammed/ML-Autoscout-Car-Price-Prediction-Project) | [](#) |
