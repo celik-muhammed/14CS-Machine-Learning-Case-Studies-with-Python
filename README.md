@@ -10,7 +10,7 @@
 [14P-Machine-Learning-Projects-with-Python](https://github.com/celik-muhammed/14P-Machine-Learning-Projects-with-Python/blob/master/README.md)
 </h3>
 
-| <h2 alin='center'>Machine Learning Case Studies</h2> | Kaggle | Tableau |
+| <h2 alin='center'>Machine Learning Case Studies with Python</h2> | Kaggle | Tableau |
 |:--|:-:|:-:|
 | 1. Supervised learning | Kaggle | Tableau |
 | [01. ML-Concrete-Slump-Test-Regression-Analysis-Case-Study](https://github.com/celik-muhammed/ML-Concrete-Slump-Test-Regression-Analysis-Case-Study/blob/master/README.md) | [](#) |
