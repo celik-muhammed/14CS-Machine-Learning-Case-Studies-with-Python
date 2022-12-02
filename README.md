@@ -28,6 +28,9 @@
     <td rowspan="2"><a href="https://github.com/celik-muhammed/ML-Concrete-Slump-Test-Regression-Analysis-Case-Study/blob/master/README.md">01. ML-Concrete-Slump-Test-Regression-Analysis-Case-Study</a></td>
     <td><a href="https://github.com/celik-muhammed/ML-Raisin-Class-Prediction-Classification-Analysis-Case-Study/blob/master/README.md">01. ML-Raisin-Class-Prediction-Classification-Analysis-Case-Study</a></td>
   </tr>
+  <tr>
+    <td><a href="https://www.kaggle.com/code/clkmuhammed/credit-score-classification-logreg-rf-xgb-deploy/notebook">02. Kaggle: Credit Score Classification</a></td>
+  </tr>
 </tbody>
 <thead align='left'><tr><th colspan=2>2. Unsupervised Learning</th></tr></thead>
 <thead><tr><th>2.1 Clustering</th><th>2.2 Dimension Reduction (PCA)</th></tr></thead>
